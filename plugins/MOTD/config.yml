@@ -1,0 +1,11 @@
+eServer-MOTD:
+  Line-1: '&9&m=============&e Friends Craft &9&m============== '
+  Line-2: '============= [ 1.12.2~1.15.2 ] ============== '
+JoinGame-MOTD:
+  Enabled: false
+  Messages:
+  - Welcome to Friends Craft
+Max-Players: 2020
+Server-MOTD:
+  Line-1: '&9&m==========&6 Friends &4Craft &c[ 1.8 ~ 1.12.2 ]&9&m========== '
+  Line-2: '&9&m==========&6 Status :: &aOnline&9&m========== '

@@ -1,0 +1,24 @@
+lastAccountName: MGL_suchan
+timestamps:
+  login: 1595934093975
+  lastteleport: 1595476179260
+  logout: 1595475173296
+ipAddress: 127.0.0.1
+nickname: ADMIN
+lastlocation:
+  world: IridiumSkyblock
+  x: 152.69621386752894
+  y: 113.0
+  z: -5.782045309778188
+  yaw: 175.95436
+  pitch: 54.073807
+money: '1800004.0'
+godmode: true
+logoutlocation:
+  world: lobby
+  x: -31.699999988079078
+  y: 65.0
+  z: 0.3072069004222916
+  yaw: 266.76715
+  pitch: 36.999157
+afk: false

@@ -1,0 +1,97 @@
+######################
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # REQUIRED
+  # Appears as the title of the menu.
+  name: '&9&lMenu!'
+
+  # REQUIRED
+  # The number of rows in the menu.
+  rows: 6
+
+  # OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'menu'
+
+  # OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # OPTIONAL
+  # This command command will be executed when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ''
+
+  # OPTIONAL
+  # The menu will open only when right-clicking with a compass.
+  open-with-item:
+    id: 399
+    left-click: false
+    right-click: true
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+Status:
+  COMMAND: ''
+  NAME: '&e&kk&e&l{player}&kk'
+  LORE:
+    - '&9Username: &f{player}'
+    - '&9Balance: &f{money}'
+    - '&9Online player: &f{online}/2020'
+  KEEP-OPEN: true
+  ID: empty map
+  POSITION-X: 5
+  POSITION-Y: 1
+  
+Goto spawn:
+  COMMAND: 'spawn'
+  NAME: '&e&lGoto spawn!'
+  LORE:
+    - '&fClick to spawn.'
+  ID: 355
+  POSITION-X: 2
+  POSITION-Y: 2
+   
+Goto:
+  COMMAND: ''
+  NAME: 'Opened move GUI'
+  LORE:
+    - '&fOpened World teleport GUI'
+  KEEP-OPEN: false
+  ID: 2
+  POSITION-X: 4
+  POSITION-Y: 2
+  
+밤으로:
+  COMMAND: 'time set night'
+  NAME: '&9밤&f으로 바꾸기!'
+  LORE:
+    - '&f밤으로 바꾸려면'
+    - '&f클릭하시죠!!'
+  ID: 368
+  POSITION-X: 6
+  POSITION-Y: 2
+
+  
+누르면죽음:
+  COMMAND: '죽기'
+  NAME: '&c&l누르면 죽습니다!!!'
+  LORE:
+    - '&f이걸 누르면 죽습니다!'
+    - '&f절대 누르지 마세요!!'
+  ID: 46
+  POSITION-X: 8
+  POSITION-Y: 2

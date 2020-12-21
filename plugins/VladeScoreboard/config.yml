@@ -1,0 +1,43 @@
+#Ce plugin est entièrement créer et déveloper par VladeGaming92 !
+Title:
+  - '&c&lFriends&6&lCraft;25'
+  - '&c&lFriends&6&lCraf;25'
+  - '&c&lFriends&6&lCra;25'
+  - '&c&lFriends&6&lCr;25'
+  - '&c&lFriends&6&lC;25'
+  - '&c&lFriends&6;25'
+  - '&c&lFriend;25'
+  - '&c&lFrien;25'
+  - '&c&lFrie;25'
+  - '&c&lFri;25'
+  - '&c&lFr;25'
+  - '&c&lF;25'
+  - '&c&lFr;25'
+  - '&c&lFri;25'
+  - '&c&lFrie;25'
+  - '&c&lFrien;25'
+  - '&c&lFriend;25'
+  - '&c&lFriends&6;25'
+  - '&c&lFriends&6&lC;25'
+  - '&c&lFriends&6&lCr;25'
+  - '&c&lFriends&6&lCra;25'
+  - '&c&lFriends&6&lCraf;25'
+  - '&c&lFriends&6&lCraft;25'
+
+Pages:
+  amount: 1
+  1:
+    showTime: 1000
+    lines:
+      - ''
+      - '&a&lName:'
+      - '&f%player%'
+      - ''
+      - '&6Rank:'
+      - '&f%rank%'
+      - ''
+      - '&bPlayers:'
+      - '&f%now%&r&c/%max%'
+      - ''
+      - '&dMoney:'
+      - '&b%money%'

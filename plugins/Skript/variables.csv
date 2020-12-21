@@ -1,0 +1,13 @@
+# === Skript's variable storage ===
+# Please do not modify this file manually!
+#
+# version: 2.4-alpha3
+
+cake.mgl_suchan.lastused, date, 810974696D657374616D70040000017379C2CA71
+homes.mgl_suchan.location, location, 8605776F726C6480FF0000000181046E616D6520800F4972696469756D536B79626C6F636B0178094062899999A00000017909405BC00000000000017A09C01133333400000105706974636808425091FA037961770843411EE3
+"kill counter.<player>.kills_session", long, 0000000000000000
+"kill counter.<player>.kills_session_max", long, 0000000000000000
+"kill counter.<player>.kills_total", long, 0000000000000000
+"kill counter.mgl_suchan.kills_session", long, 000000000000000A
+"kill counter.mgl_suchan.kills_total", long, 000000000000000A
+

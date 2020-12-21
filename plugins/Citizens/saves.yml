@@ -1,0 +1,33 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 5
+npc:
+  '4':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5NTkzNDA3MjI3NywKICAicHJvZmlsZUlkIiA6ICIzMWE3NWY0NTJlMmE0MzJiYmE3OGNlNTRjMjU5OThiOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJURUxFQ09NXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MTUyMDJhZTI0ZTE5MDA2YzJmODI1MzU3YjUyOThlOWIyYmEyZGU4NDcwNjQ2MTc5YjM2Y2E5ZmJjMWZkY2MiCiAgICB9CiAgfQp9
+      cached-skin-uuid-name: telecom_
+      cached-skin-uuid: 31a75f45-2e2a-432b-ba78-ce54c25998b8
+      player-skin-name: telecom_
+      player-skin-signature: cXZro2Y5mxtFK+tQjBwt4kwfu0I8IWIDGj9cZV8k+MPUugMLUdyCcN+9GjMfs+Ddyu1N7G0MvcmX9tI5B8wS2TjluVqbN1Mv+cST1wDfPUk2sBW8hqBlRLWgG5jQRIgQq8w2Xe0NAY9mfqLMSyhBBGTUyzQfYofJ4HGQ5vot+t+oimUE/kgFFNWr3EM1LTZZ+ck3tQLE1ZdavLy5dz5ucp7wehU/t0fC39aIsazp50B7A9Rz8/cf2vTLEtbnP4q1FAd9LM2Iax+Cjzv/Emz5ba/LjYroTng0xs4W/kQBFOWmS0tXsqxh0GA+PsRvlI46p7w6wpuG8j3xXMkZZ7Vs6j+4CdWdAB07dxGmPkuaUxYTnME6CzXZBGOnfE+vYAFKagFrYIUQrDvPclq+NEA7DNl/GGErfmxvMduGqrLiZSQYT2XCqwf9sEXG6YFeB3VPwA2aqnHX4RLA7K7ezDR1IJHGz4adfVtRE61+FN+U3OXiJUJTztjNPY1i+76d8pnMcMp321AIo5wH/JUJrNVMqnHm8MCBBQud3+j/M4bTkDGCtyZv5wHjYQtDJqmdDiLjD0gOJI3RWa7k+NAgka4E0xDcX8s/emtGj9EDtGHT9INoxr4EwvPZsuBPoc/A0/8Mhr563ij+kD5pe1Dq+tVR4HOD9NDhBrObMM4UU6sDI7A=
+    name: Goto
+    uuid: 55ce3e84-a246-4bf4-9bca-49c5e19661b7
+    traits:
+      type: PLAYER
+      gravity:
+        enabled: false
+      spawned: true
+      location:
+        world: lobby
+        x: '-16.5335'
+        y: '65.0'
+        z: '-3.3668'
+        yaw: '-45.88031005859375'
+        pitch: '0.0'
+      owner:
+        owner: MGL_suchan
+        uuid: 74dddb84-7aab-3f5f-96bd-93acd84e4a72
+    traitnames: mounttrait,equipment,type,gravity,location,inventory,spawned,owner
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
